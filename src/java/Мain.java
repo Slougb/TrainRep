@@ -5,6 +5,7 @@ public class Мain {
     public static void main(String[] args) {
         System.out.println("Два числа через пробел : ");
         result ();
+        System.out.println("Получилось!");
 
     }
     public static void result () {
