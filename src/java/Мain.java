@@ -16,7 +16,7 @@ public class Мain {
         } else if (a<b) {
             System.out.println("Второе число больше первого");
         } else {
-            System.out.println("Числа равны");
+            System.out.println("Числа равны!");
         }
     }
 
